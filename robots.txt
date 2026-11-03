@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kanade0525.github.io/oyayubi-dojo/sitemap.xml
